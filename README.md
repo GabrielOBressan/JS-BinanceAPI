@@ -110,6 +110,6 @@ The project is under active development and open for contributions.
 
 ## 📫 Contact
 
-Your Name - [@yourTwitter](https://twitter.com/yourTwitter) - email@example.com
+Gabriel Bressan - gabrielbressannz@gmail.com
 
 Project Link: [https://github.com/your-username/crypto-market-dashboard](https://github.com/your-username/crypto-market-dashboard)
