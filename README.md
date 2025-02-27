@@ -1,3 +1,1 @@
 # JS-BinanceAPI
-
-teste
