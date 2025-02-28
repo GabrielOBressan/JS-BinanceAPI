@@ -112,4 +112,3 @@ The project is under active development and open for contributions.
 
 Gabriel Bressan - gabrielbressannz@gmail.com
 
-Project Link: [https://github.com/your-username/crypto-market-dashboard](https://github.com/your-username/crypto-market-dashboard)
